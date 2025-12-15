@@ -1,4 +1,4 @@
-# DevOps Labs for Beginners 🛠️
+# DevOps Labs for Juniors 🛠️
 Practical labs to help beginners and aspiring DevOps engineers gain hands-on experience with core tools.
 This repository contains a growing collection of beginner-friendly labs designed to help you practice essential DevOps concepts and tools.
 
